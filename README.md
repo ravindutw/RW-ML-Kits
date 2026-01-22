@@ -3,7 +3,22 @@
 A collection of reusable Machine Learning templates.
 
 This repository currently contains following templates.
-- XGBoost
-- PyTorch Deep Learning
+#### Gradient boosting
+- XGBoost Classifier
+- LightGBM Classifier
 
-More templates will be added!
+#### Deep learning
+- PyTorch Classification
+
+#### Random forest
+- Random forest Classifier
+
+#### Regression
+- Logistic Regression
+
+
+
+
+<br>
+<hr>
+© 2026 Ravindu Wijesundara
